@@ -30,8 +30,8 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 
 **[ISMS](https://github.com/darcybracken/isms-nist-csf-fincorp)** Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
 
-**[splunk-compliance-dashboard-architecture]([https://github.com/darcybracken/splunk-compliance-dashboard-architecture))**  
-Technical proof-of-concept validating three NIST 800-53 controls (AC-7, AU-9, DE.CM-01) from the ISMS Logging & Monitoring Policy using live Splunk dashboards. Includes synthetic Windows Event Log generation (500 events), HEC token authentication, field extraction, and audit-ready SPL queries. Demonstrates control mapping from policy to SIEM detection.
+**[splunk compliance dashboard architecture](https://github.com/darcybracken/splunk-compliance-dashboard-architecture)**  
+Technical proof-of-concept validating three NIST 800-53 controls (AC-7, AU-9, DE.CM-01) from the ISMS Logging & Monitoring Policy using live Splunk dashboards. Demonstrates control mapping from policy to SIEM detection.
 
 
 #
