@@ -1,8 +1,11 @@
-# 🏄‍♂️ D'Arcy
-Cybersecurity student gaining practical experience in vulnerability management, security operations, and GRC.  My background in B2B tech sales involves translating technical insights into business-friendly language.
+
+# D'Arcy
+
+Cybersecurity student building hands-on experience in GRC, security operations, and vulnerability management. Background in B2B tech sales taught me that organizations do not buy solutions, they buy outcomes. That framing maps directly to security work: controls exist to protect business outcomes, and risk appetite is a business decision, not a technical one.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=flat&logo=comptia&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-E31837?style=flat&logo=comptia&logoColor=white)
 
 ---
 
@@ -20,30 +23,39 @@ Cybersecurity student gaining practical experience in vulnerability management, 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-#
+---
 
 ### Current Focus & Latest Projects
 
-**[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)** 
+**[ISMS NIST CSF 2.0](https://github.com/darcybracken/isms-nist-csf-2.0)**
+14-document Information Security Management System for a mock financial services organization. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA, GDPR), security architecture with DFD, threat model, and incident response planning. Built for audit readability with traceable evidence from risk appetite to control to proof.
+
+**[Splunk Compliance Dashboard](https://github.com/darcybracken/splunk-compliance-dashboard-architecture)**
+Technical proof of concept validating three NIST 800-53 controls (AC-7, AU-9, DE.CM-01) from the ISMS Logging and Monitoring Policy using live Splunk dashboards. Demonstrates control mapping from policy to SIEM detection.
+
+**[Python Security Tools](https://github.com/darcybracken/Python-Security-tools)**
 TCP port scanner, security log parser, and file integrity checker. Standard library only, zero dependencies.
 
-**[Hacking Lab](https://github.com/darcybracken/hacking-lab)** 
+**[Hacking Lab](https://github.com/darcybracken/hacking-lab)**
 Isolated penetration testing environment on Apple Silicon using UTM, Kali Linux, and VulnHub VMs with host-only networking.
 
-**[ISMS](https://github.com/darcybracken/isms-nist-csf-fincorp)** 
-Full NIST CSF 2.0 ISMS build for a mock financial services org. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA), security architecture with DFD, and incident response planning.
-
-**[Splunk Compliance Dashboard Architecture](https://github.com/darcybracken/splunk-compliance-dashboard-architecture)**  
-Technical proof-of-concept validating three NIST 800-53 controls (AC-7, AU-9, DE.CM-01) from the ISMS Logging & Monitoring Policy using live Splunk dashboards. Demonstrates control mapping from policy to SIEM detection.
-
-
-#
+---
 
 <details>
- <summary><h3>👨‍💻 My Cybersecurity Journey</h3></summary>
-   I started my journey with a simple curiosity: "How do things actually work under the hood, and how can they be broken?" This curiosity quickly evolved into a passion for cybersecurity. What started as tinkering with Linux virtual machines and learning basic networking concepts has blossomed into a full-blown dedication to understanding the security landscape. I'm currently a student immersing myself in everything from cryptography and network traffic analysis to web application vulnerabilities and reverse engineering. While the learning curve is steep and the sheer amount of information can be overwhelming, the thrill of finally rooting a box or successfully understanding a complex exploit makes it all worth it. My ultimate goal is to bridge the gap between theoretical knowledge and practical application, eventually stepping into a role as a security analyst. I'm constantly learning, breaking things (safely!), and building them back up. Let's secure the future together.
+ <summary><h3>My Cybersecurity Journey</h3></summary>
+
+I am a seeker of understanding, a builder of ideas, and someone in a continuous process of becoming.
+
+The hacking lab is where it clicked. There is something about building an isolated environment, spinning up a target, and working through it methodically that made everything theoretical feel real. Understanding how an attack works changes how you think about defense. It is not abstract anymore.
+
+I came into this from B2B tech sales, which gave me an unusual starting point. I already understood how organizations make decisions, how risk gets communicated upward, and why technical teams often struggle to be heard. What I did not have was the technical foundation. So I built it.
+
+A home lab running Kali Linux on Apple Silicon. A 14-document ISMS mapped to NIST CSF 2.0. A live Splunk dashboard validating controls from policy to detection. Python tools written from scratch. I am pursuing a B.S. in Cybersecurity and Information Assurance at WGU, hold CompTIA A+, and am working toward Security+.
+
+The goal is a role where the work is real and the problems matter.
+
 </details>
 
 ---
 
-Stay curious and do things differently.
+Stay curious. Do things differently.
