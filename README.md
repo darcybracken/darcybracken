@@ -26,6 +26,9 @@ GRC and vulnerability management practitioner building a portfolio across compli
 
 ### Current Focus & Latest Projects
 
+**[AI Change Management - NIST AI RMF 1.0](https://github.com/darcybracken/ai-change-management-rmf)**
+Applied NIST AI RMF 1.0 governance program for a fictional mid-size healthcare organization (HIPAA). Covers AI acceptable use and governance policy, a shadow AI discovery and use-case inventory, an AI risk register with a NIST AI RMF to HIPAA crosswalk, red-team and incident-response addenda, and workforce literacy training. Built around the idea that staff are not the problem, the missing alternative is.
+
 **[ISMS NIST CSF 2.0](https://github.com/darcybracken/isms-nist-csf-2.0)**
 14-document Information Security Management System for a mock financial services organization. Covers governance policy, multi-framework crosswalk (SOC 2, ISO 27001, GLBA, GDPR), security architecture with DFD, threat model, and incident response planning. Built for audit readability with traceable evidence from risk appetite to control to proof.
 
