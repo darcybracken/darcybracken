@@ -5,7 +5,6 @@ GRC and vulnerability management practitioner building a portfolio across compli
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcyvbracken/)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-E31837?style=flat&logo=comptia&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA%20Network%2B-In%20Progress-E31837?style=flat&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-E31837?style=flat&logo=comptia&logoColor=white)
 
 ---
 
