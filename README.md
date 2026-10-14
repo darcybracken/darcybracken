@@ -25,6 +25,9 @@ GRC and vulnerability management practitioner building a portfolio across compli
 
 ### Current Focus & Latest Projects
 
+**[Hybrid Detection Engineering with Microsoft Sentinel](https://github.com/darcybracken/sentinel-hybrid-detection-lab)**
+Cloud-native SIEM build that pivoted under a real constraint. Deployed Microsoft Sentinel, hit a student-subscription VM quota wall, and re-architected to a hybrid pipeline: a local Linux VM onboarded through Azure Arc, streaming auth logs into Sentinel over Syslog/AMA. Includes a custom NRT KQL detection with regex entity mapping for Linux privilege escalation, automated incident assignment, detection-as-code ARM exports, a coverage-and-gaps analysis with MITRE and NIST 800-53 mapping, and an 11-row roadblock log. Writeup: ["Azure Told Me No"](https://medium.com/@darcyvbracken/azure-told-me-no-179297f3f2c9) on Medium.
+
 **[AI Change Management - NIST AI RMF 1.0](https://github.com/darcybracken/ai-change-management-rmf)**
 Applied NIST AI RMF 1.0 governance program for a fictional mid-size healthcare organization (HIPAA). Covers AI acceptable use and governance policy, a shadow AI discovery and use-case inventory, an AI risk register with a NIST AI RMF to HIPAA crosswalk, red-team and incident-response addenda, and workforce literacy training. Built around the idea that staff are not the problem, the missing alternative is.
 
@@ -53,12 +56,10 @@ The hacking lab is where it clicked. There is something about building an isolat
 
 I came into this from B2B tech sales, which gave me an unusual starting point. I already understood how organizations make decisions, how risk gets communicated upward, and why technical teams often struggle to be heard. What I did not have was the technical foundation. So I built it.
 
-A home lab running Kali Linux on Apple Silicon. A 14-document ISMS mapped to NIST CSF 2.0. A live Splunk dashboard validating controls from policy to detection. Python tools written from scratch. I am pursuing a B.S. in Cybersecurity and Information Assurance at WGU, hold CompTIA A+, and am working toward Security+.
+A home lab running Kali Linux on Apple Silicon. A 14-document ISMS mapped to NIST CSF 2.0. A live Splunk dashboard validating controls from policy to detection. Python tools written from scratch. I am pursuing a B.S. in Cybersecurity and Information Assurance at WGU, hold CompTIA A+, and am working toward Network+.
 </details>
 
 The goal is a role where the work is real and the problems matter.
-
-</details>
 
 ---
 
